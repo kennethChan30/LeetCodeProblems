@@ -1,2 +1,2 @@
-# This is to record my progress and solution to Leetcode problems
+# Progress and solution to Leetcode problems
 Palindrome Number
